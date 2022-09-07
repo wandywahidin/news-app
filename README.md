@@ -1,3 +1,3 @@
 link demo app
 
-https://news-app-wandywahidin.vercel.app/
+https://news-app-wandy.vercel.app/
